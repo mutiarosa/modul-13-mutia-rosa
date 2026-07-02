@@ -1,3 +1,5 @@
+e7b821e Memperbarui dokumentasi README
+a5f2d0a Menambahkan catatan riwayat commit
 1b964ea Mengubah tampilan halaman pada branch fitur
 8baa02c Memperbarui fungsi JavaScript
 746f1d3 menambahkan struktur awal proyek web
