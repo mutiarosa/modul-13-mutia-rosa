@@ -1,0 +1,3 @@
+1b964ea Mengubah tampilan halaman pada branch fitur
+8baa02c Memperbarui fungsi JavaScript
+746f1d3 menambahkan struktur awal proyek web
